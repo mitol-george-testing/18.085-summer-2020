@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Science and Engineering"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "66a1b91b-a9cb-94cc-811c-874488a82a4a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Computational Science and Engineering I",
+  "course_description": "This course provides the fundamental computational toolbox for solving science and engineering problems. Topics include review of linear algebra, applications to networks, structures, estimation, finite difference and finite element solutions of differential equations, Laplace's equation and potential flow, boundary-value problems, Fourier series, the discrete Fourier transform, and convolution.\u00a0We will also explore many topics in AI and machine learning throughout the course.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "18.0851",
+  "primary_course_number": "18.085",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
